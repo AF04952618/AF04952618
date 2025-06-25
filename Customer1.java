@@ -11,7 +11,7 @@ public class Customer1
         {
          Customer1 c =new Customer1();
          c.Customer_Id=12345;
-         c.customer_name="Latha";
+         c.Customer_name="Latha";
          c.getCustomer();
         }
 }
